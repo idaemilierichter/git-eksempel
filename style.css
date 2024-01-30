@@ -3,13 +3,13 @@
 }
 
 h1 {
-  color: chartreuse;
+  color: rgb(201, 224, 177);
 }
 
 p {
-  color: blueviolet;
+  color: rgb(114, 70, 155);
 }
 
 body {
-  background-color: orange;
+  background-color: rgb(97, 69, 15);
 }

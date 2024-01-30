@@ -13,3 +13,7 @@ p {
 body {
   background-color: rgb(97, 69, 15);
 }
+
+header {
+  background-color: aquamarine;
+}
